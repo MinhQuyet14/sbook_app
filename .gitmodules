@@ -1,0 +1,6 @@
+[submodule "bookstore_webapp_backend"]
+	path = bookstore_webapp_backend
+	url = https://github.com/MinhQuyet14/bookstore_webapp_backend
+[submodule "bookstore_webapp"]
+	path = bookstore_webapp
+	url = https://github.com/MinhQuyet14/bookstore_webapp
